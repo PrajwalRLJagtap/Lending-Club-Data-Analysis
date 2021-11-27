@@ -3,3 +3,6 @@ Lending Club connects people who need money (borrowers) with people who have mon
 
 
 ![enter image description here](https://miro.medium.com/max/640/1*UC0sy0bENl-DLPy3jmXNag.jpeg)
+
+Click [here](https://github.com/PrajwalRLJagtap/Lending-Club-Data-Analysis/blob/main/03_Lending_Club_Data_Analysis.ipynb) for the code 
+
